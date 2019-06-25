@@ -4,3 +4,6 @@
 [submodule "hyde-theme"]
 	path = hyde-theme
 	url = git@github.com:jvanz/pelican-hyde.git
+[submodule "pelican-hyde"]
+	path = pelican-hyde
+	url = git@github.com:jvanz/pelican-hyde.git

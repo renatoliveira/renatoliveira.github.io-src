@@ -7,4 +7,4 @@ Slug: hello-world
 Authors: Renato Oliveira
 Summary: Hello world
 
-This is the content of the first post/article of my super blog!
+This is the content of the first post/article of my blog!

@@ -19,7 +19,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-THEME = 'hyde-theme'
+THEME = 'pelican-hyde'
 PROFILE_IMAGE = 'crying_cat.png'
 
 BIO = '''
