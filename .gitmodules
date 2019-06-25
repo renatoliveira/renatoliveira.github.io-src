@@ -1,0 +1,6 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:renatoliveira/renatoliveira.github.io.git
+[submodule "hyde-theme"]
+	path = hyde-theme
+	url = git@github.com:jvanz/pelican-hyde.git
